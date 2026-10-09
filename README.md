@@ -1,5 +1,5 @@
 ## GITHUB LINK:
-### https://github.com/Jayarajbalaji/Manual_Testing/blob/main/09-10-2026-task1.md
+### https://github.com/ligneshwar/Web-table
 # Selenium Web Table Automation Exercises
 **Question:**
 Use the same demo website, [AssertQA – Web Tables](https://assertqa.com/practice/webtables), and complete the following tasks using Selenium with Python.
